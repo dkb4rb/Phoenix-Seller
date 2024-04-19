@@ -1,5 +1,5 @@
 <h1 align="center">
-<a  href=""><img src="https://github.com/dkb4rb/Phoenix-Seller/blob/main/Logo.svg" alt="PhoenixSeller" width="300" style="margin-left: 250px!importan;margin-bottom: -10px;"></a>
+<a  href=""><img src="https://github.com/dkb4rb/Phoenix-Seller/blob/main/assets/Logo.svg" alt="PhoenixSeller" width="300" style="margin-left: 250px!importan;margin-bottom: -10px;"></a>
 <br>
 Phoenix Seller
 </h1>
