@@ -1,10 +1,10 @@
 <h1 align="center">
 <a  href=""><img src="https://github.com/dkb4rb/Phoenix-Seller/blob/main/assets/Logo.svg" alt="PhoenixSeller" width="300" style="margin-left: 250px!importan;margin-bottom: -10px;"></a>
 <br>
-Phoenix Seller
+Phenix Seller
 </h1>
 
-<h4 align="center">A minimal Tool to attacks for cookies deserialization in PHP <a href="http://electron.atom.io" target="_blank">Pho3nix</a>.</h4>
+<h4 align="center">A minimal Tool to attacks for cookies deserialization in PHP <a href="http://electron.atom.io" target="_blank">Ph3nix</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
@@ -28,7 +28,7 @@ Phoenix Seller
 </p>
 <center>
 
-  ![screenshot](https://github.com/dkb4rb/ProxFuzzer/blob/main/assets/Present.gif))
+  ![screenshot](https://github.com/dkb4rb/Phoenix-Seller/blob/main/assets/Present.gif))
 </center>
 
 # Características Clave
